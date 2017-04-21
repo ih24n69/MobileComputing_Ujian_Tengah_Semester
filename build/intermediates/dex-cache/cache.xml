@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_32519582187c2b09589477fa2e369df3f71df3f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_61c500e6b56f38415c9c02ade9db866581332496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_ddff4ad66fe21dacfe189b2ea9e01013e08f2551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_11de8811fce1fc350c436741c59adaa3a7c2ca9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_193933fb39909a1223d575500fb541935f16429f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10c883031bfd1796e6dd2d98009cbc41356b4e1e">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eef523e91fb7d2b63f987e94210bdd93864ad1ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_c08742128711b581daecfa43f2f0603d7ed0f5d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_881a37cc087a658a43e018dbc944978b2ba8f266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_ef0312eea5349750812f1e86f88780dbc30d4bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_647fe17a5e425e99cf35465defd3a5087a780a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78239fc3070fb97f6a7225e30650f72e574e0fc4">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b78b0c6d2f7fcbe8b125d2472a69331113a76e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_3ba25fd66e14e3103d569eb5ed41d80fc1898ffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_9d79ab9cf2703230557be6c65b2fb0fcfe9ebb17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\UjianTengahSemester1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_5473b21a1bbb7a7e7db2dfdfeeeb0e04df668371\classes.dex" />
+    </item>
+
+</items>
